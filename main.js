@@ -37,7 +37,7 @@ $(document).ready(function () {
     $("#run_W").on("click", function (event) {
         play_ball(-4);
     });
-    $(".neg").on("click", function (event) {
+    $(".btn-neg").on("click", function (event) {
         play_ball(parseInt(event.target.outerText));
     });
     $("#scoreboard-btn").on("click", function (event) {
