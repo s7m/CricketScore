@@ -1,3 +1,8 @@
+/*Forked and customised from the branch https://github.com/Sahil3201/cricket-score*/
+/* Courtesy to the original creator Sahil3201*/
+/*=====Sh@heen=====*/
+
+
 var scoreboard = [[], [0]]; //scoreboard[<over_no>][0] counts wide runs
 var ball_no = 1; // Ball number will start from 1
 var over_no = 1; // Over number will start from 1
